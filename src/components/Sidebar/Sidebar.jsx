@@ -21,7 +21,6 @@ const Sidebar = () => {
          <div className='recent-entry'>
            <img src={assets.message_icon} alt="" />
            <p>what is react..</p>
-           <button>clicked</button>
          </div>
        </div> 
        :null}
